@@ -1,1 +1,3 @@
-hello again
+function hello() {
+  console.log("hello again");
+}
